@@ -1,0 +1,7 @@
+import names
+
+def func_1():
+    print(names.get_full_name())
+
+func_1()
+

@@ -5,3 +5,9 @@ def func_1():
 
 func_1()
 
+
+def func_2():
+    print(names.get_first_name())
+
+func_2()
+

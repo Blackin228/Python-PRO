@@ -16,3 +16,4 @@ def func_3():
     print(names.get_last_name())
 
 func_3()
+
